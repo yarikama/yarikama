@@ -57,9 +57,9 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/milvus.svg" height="40" alt="milvus logo"  />
+  <img src="https://cdn.simpleicons.org/milvus/white" height="40" alt="milvus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/langchain.svg" height="40" alt="langchain logo"  />
+  <img src="https://cdn.simpleicons.org/langchain/white" height="40" alt="langchain logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/chroma.svg" height="40" alt="chroma logo"  />
   <img width="12" />
