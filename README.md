@@ -88,11 +88,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yarikama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-Work
-<img src="https://raw.githubusercontent.com/playarikama/playarikama/output/snake.svg" alt="Snake animation" />
+### GitHub Contributions
 
-Personal
-<img src="https://raw.githubusercontent.com/yarikama/yarikama/output/snake.svg" alt="Snake animation" />
+#### Professional Account
+<img src="https://raw.githubusercontent.com/playarikama/playarikama/output/snake.svg" alt="Professional GitHub Contribution Graph" />
+
+#### Personal Projects
+<img src="https://raw.githubusercontent.com/yarikama/yarikama/output/snake.svg" alt="Personal GitHub Contribution Graph" />
 
 ###
