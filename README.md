@@ -89,7 +89,10 @@
 </div>
 
 ###
+Work
+<img src="https://raw.githubusercontent.com/playarikama/playarikama/output/snake.svg" alt="Snake animation" />
 
+Personal
 <img src="https://raw.githubusercontent.com/yarikama/yarikama/output/snake.svg" alt="Snake animation" />
 
 ###
