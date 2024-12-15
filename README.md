@@ -91,8 +91,7 @@
 ### GitHub Contributions
 
 #### Professional Account
-<img src="https://raw.githubusercontent.com/playarikama/playarikama/output/snake.svg" alt="Professional GitHub Contribution Graph" />
-
+<img src="https://raw.githubusercontent.com/playarikama/playarikama/output/github-contribution-grid-snake.svg" alt="Professional GitHub Contribution Graph" />
 #### Personal Projects
 <img src="https://raw.githubusercontent.com/yarikama/yarikama/output/snake.svg" alt="Personal GitHub Contribution Graph" />
 
