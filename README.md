@@ -2,6 +2,7 @@
 
 ###
 
+
 <p align="left">Former Generative AI Team Lead who built production GenAI platforms that doubled the B2B client base and scaled users to 20K. Shipped Agentic AI Systems, Advanced RAG, and robust backend infrastructure, contributing to two major industry awards. Currently pursuing an M.C.S. in Computer Science at Rice University.</p>
 
 ###
@@ -70,9 +71,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
       </div>
     </td>
-    <td align="right" valign="middle">
-      <h4 align="right">NoSQL</h4>
-      <div align="right">
+    <td align="center" valign="top">
+      <h4 align="left">NoSQL</h4>
+      <div align="center">
         <img src="https://cdn.simpleicons.org/neo4j" height="40" alt="neo4j logo"  />
         <img width="12" />
         <img src="https://cdn.simpleicons.org/milvus" height="40" alt="milvus logo"  />
