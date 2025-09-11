@@ -61,24 +61,19 @@
 
 ###
 
-<table>
-  <tr>
-    <td align="left" valign="middle">
-      <h4 align="left">SQL</h4>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-    </td>
-    <td align="center" valign="top">
-      <h4 align="left">NoSQL</h4>
-        <img src="https://cdn.simpleicons.org/neo4j" height="40" alt="neo4j logo"  />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/milvus" height="40" alt="milvus logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo"  />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <strong>SQL:</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="24" />
+  <strong>NoSQL:</strong>
+  <img src="https://cdn.simpleicons.org/neo4j" height="40" alt="neo4j logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/milvus" height="40" alt="milvus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo"  />
+</div>
 
 ###
 
