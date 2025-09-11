@@ -2,11 +2,43 @@
 
 ###
 
-<p align="left">I'm Yarikama! I enjoy learning new things and applying my knowledge to real-world projects. I also like leading teams and challenging myself in competitions. I look forward to finding a environment that allows me to continue learning and utilizing my strengths.</p>
+<p align="left">Former Generative AI Team Lead who built production GenAI platforms that doubled the B2B client base and scaled users to 20K. Shipped Agentic AI Systems, Advanced RAG, and robust backend infrastructure, contributing to two major industry awards. Currently pursuing an M.C.S. in Computer Science at Rice University.</p>
 
 ###
 
 <h2 align="left">Skill Sets</h2>
+
+###
+
+<h3 align="left">Languages</h3>
+
+###
+
+<div align="center">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<h3 align="left">Frontend</h3>
+
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
 ###
 
@@ -15,39 +47,57 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://cdn.simpleicons.org/celery" height="40" alt="celery logo"  />
 </div>
 
 ###
 
-<h3 align="left">Machine Learning</h3>
+<h3 align="left">Databases</h3>
+
+###
+
+<table>
+  <tr>
+    <td align="left" valign="middle">
+      <h4 align="left">SQL</h4>
+      <div align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+      </div>
+    </td>
+    <td align="right" valign="middle">
+      <h4 align="right">NoSQL</h4>
+      <div align="right">
+        <img src="https://cdn.simpleicons.org/neo4j" height="40" alt="neo4j logo"  />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/milvus" height="40" alt="milvus logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo"  />
+      </div>
+    </td>
+  </tr>
+</table>
+
+###
+
+<h3 align="left">ML/DL</h3>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/pytorch" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+  <img src="https://cdn.simpleicons.org/scikitlearn" height="40" alt="scikit-learn logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img src="https://cdn.simpleicons.org/numpy" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+  <img src="https://cdn.simpleicons.org/pandas" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
 ###
@@ -57,11 +107,27 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/milvus/white" height="40" alt="milvus logo"  />
+<img src="https://cdn.jsdelivr.net/gh/run-llama/logos@main/LlamaLogo%20Square.png" height="40" alt="LlamaIndex square logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/langchain/white" height="40" alt="langchain logo"  />
+  <img src="https://cdn.simpleicons.org/langchain" height="40" alt="langchain logo"  />
   <img width="12" />
 </div>
+
+###
+
+<h3 align="left">Cloud / DevOps</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions" height="40" alt="github actions logo"  />
+</div>
+
+<p align="center"><sub>Bedrock • EC2 • S3 • RDS • ElastiCache</sub></p>
 
 ###
 
@@ -79,6 +145,12 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/freebsd" height="40" alt="freebsd logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytest/white" height="40" alt="pytest logo"  />
 </div>
 
 ###
@@ -90,14 +162,6 @@
 
 ### GitHub Contributions
 
-#### Professional Account
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/playarikama/playarikama/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/playarikama/playarikama/output/github-contribution-grid-snake.svg" />
-  <img alt="Professional GitHub Contribution Graph" src="https://raw.githubusercontent.com/playarikama/playarikama/output/github-contribution-grid-snake.svg" />
-</picture>
-
 #### Personal Projects
 <img src="https://raw.githubusercontent.com/yarikama/yarikama/output/snake.svg" alt="Personal GitHub Contribution Graph" />
 
-###
