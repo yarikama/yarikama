@@ -1,159 +1,80 @@
-<h2 align="left">About Me</h2>
+<h1 align="center">Henry Hsu</h1>
 
-###
+<p align="center">
+  <em>Building production GenAI systems.</em><br/>
+  Previously led GenAI at <a href="https://docs.maiagent.ai/maiagent-user-guide/maiagent-user-guide-en/">MaiAgent</a> (scaled users 3K → 20K) · <a href="https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3Ayarikama+is%3Amerged">LlamaIndex contributor (14 merged PRs)</a> · M.C.S. @ Rice · <strong>Incoming SWE Intern @ Google</strong>
+</p>
 
+<p align="center">
+  <a href="https://www.yarikama.com/"><img src="https://img.shields.io/badge/Portfolio-yarikama.com-1f6feb?style=flat-square" alt="portfolio"/></a>
+  <a href="https://www.linkedin.com/in/yarikama/"><img src="https://img.shields.io/badge/LinkedIn-yarikama-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:hsuhengjui@gmail.com"><img src="https://img.shields.io/badge/Email-hsuhengjui%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
+</p>
 
-<p align="left">Former Generative AI Team Lead who built production GenAI platforms that doubled the B2B client base and scaled users to 20K. Shipped Agentic AI Systems, Advanced RAG, and robust backend infrastructure, contributing to two major industry awards. Currently pursuing an M.C.S. in Computer Science at Rice University.</p>
+---
 
-###
+### About
 
-<h2 align="left">Skill Sets</h2>
+Former **GenAI Team Lead** who shipped Agentic AI Systems, Advanced RAG, and the backend infrastructure behind a B2B platform serving CTBC Bank, MSI, HPE, and iGroup — work that contributed to the **Presidential Hackathon Winner (2024)** and **23rd Golden Peak Award (2025)**. I care about systems that survive contact with real users: retrieval that scales past 20M+ chunks, agents that don't burn tokens, and test coverage that catches regressions before they ship.
 
-###
+Now at Rice (GPA 4.00) and joining Google as a SWE intern.
 
-<h3 align="left">Languages</h3>
+---
 
-###
+### Featured Work
 
-<div align="center">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/yarikama/Agentic-Advanced-RAG">🧠 Agentic Hybrid RAG</a></h4>
+      <sub><em>LangGraph · Neo4j · Milvus · Multi-Agent</em></sub>
+      <p>Self-routing agentic system that picks Graph RAG, Vector RAG, or a hybrid path per query. Achieved <strong>88.2% MAR@10</strong> on multi-hop datasets and cut indexing token cost by <strong>35%</strong> via ML-clustered pivotal node selection.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/yarikama/Multi-agent-with-RAG-a-demo-of-senior-high-school-solver-system">🎓 Multi-Agent Tutoring RAG</a></h4>
+      <sub><em>CrewAI · LangChain · Streamlit · Chroma</em></sub>
+      <p>Multi-agent tutoring system with role-specialized LLMs for problem-solving, exam detection, and concept analysis. <strong>Top 3 of 50 teams</strong> at the NYCU CS AI workshop (Outstanding Award).</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3Ayarikama+is%3Amerged">🦙 LlamaIndex Contributions</a></h4>
+      <sub><em>Open Source · 15K+ ⭐</em></sub>
+      <p><strong>14 merged PRs</strong> across AWS Bedrock, Claude, Elasticsearch, Cohere, OpenAI, MCP Client, and the AI Agent Workflow modules — bug fixes, new integrations, and capability extensions.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 MaiAgent Production Platform</h4>
+      <sub><em>Django · FastAPI · LlamaIndex · AWS</em></sub>
+      <p>Led GenAI roadmap for a 10-person startup. Upgraded chatbots into AI agents with memory + tools + MCP, driving <strong>120% partner growth</strong> and <strong>67%+</strong> token reduction. Introduced pytest framework reaching <strong>67% coverage</strong> from zero.</p>
+    </td>
+  </tr>
+</table>
 
-###
+---
 
-<h3 align="left">Frontend</h3>
+### Tech I Reach For
 
-###
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
+```text
+Languages    Python · TypeScript · C/C++
+Backend      Django · FastAPI · Express · Celery · Nginx
+GenAI        LlamaIndex · LangChain · LangGraph · MCP
+Data         PostgreSQL · Neo4j · Milvus · Elasticsearch · MongoDB · Chroma
+ML / DL      PyTorch · JAX · scikit-learn · NumPy · Pandas
+Cloud        AWS (Bedrock · SageMaker · EMR · EC2 · S3 · RDS · ElastiCache)
+DevOps       Docker · GitHub Actions · Linux · pytest
+```
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,cpp,django,fastapi,react,postgres,mongodb,pytorch,aws,docker,linux,git,neovim,bash" alt="tech stack"/>
+</p>
 
-<h3 align="left">Backend</h3>
+---
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/celery" height="40" alt="celery logo"  />
-</div>
-
-###
-
-<h3 align="left">Databases</h3>
-
-###
-
-<div align="center">
-  <strong>SQL:</strong>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="24" />
-  <strong>NoSQL:</strong>
-  <img src="https://cdn.simpleicons.org/neo4j" height="40" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/milvus" height="40" alt="milvus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo"  />
-</div>
-
-###
-
-<h3 align="left">ML/DL</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/scikitlearn" height="40" alt="scikit-learn logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas" height="40" alt="pandas logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">Generative AI</h3>
-
-###
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/run-llama/logos@main/LlamaLogo%20Square.png" height="40" alt="LlamaIndex square logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/langchain" height="40" alt="langchain logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">Cloud / DevOps</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions" height="40" alt="github actions logo"  />
-</div>
-
-<p align="center"><sub>Bedrock • EC2 • S3 • RDS • ElastiCache</sub></p>
-
-###
-
-<h3 align="left">Tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/freebsd" height="40" alt="freebsd logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytest/white" height="40" alt="pytest logo"  />
-</div>
-
-###
+### GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yarikama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yarikama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-### GitHub Contributions
-
-#### Personal Projects
 <img src="https://raw.githubusercontent.com/yarikama/yarikama/output/snake.svg" alt="Personal GitHub Contribution Graph" />
-
