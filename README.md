@@ -1,8 +1,7 @@
 <h1 align="center">Henry Hsu</h1>
 
 <p align="center">
-  <em>Building production GenAI systems.</em><br/>
-  Previously led GenAI at <a href="https://docs.maiagent.ai/maiagent-user-guide/maiagent-user-guide-en/">MaiAgent</a> (scaled users 3K → 20K) · <a href="https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3Ayarikama+is%3Amerged">LlamaIndex contributor (14 merged PRs)</a> · M.C.S. @ Rice · <strong>SWE Intern @ Google (Summer 2026)</strong>
+  M.C.S. @ Rice (Dec 2026) · Ex-SWE Intern @ Google · Ex-GenAI Team Lead @ MaiAgent
 </p>
 
 <p align="center">
@@ -15,9 +14,7 @@
 
 ### About
 
-Former **GenAI Team Lead** who shipped Agentic AI Systems, Advanced RAG, and the backend infrastructure behind a B2B platform serving CTBC Bank, MSI, HPE, and iGroup — work that contributed to a **Presidential Hackathon win (2024, Top 5 nationally)** and the **23rd Golden Peak Award (2025)**. I care about systems that survive contact with real users: retrieval that scales past 20M+ chunks, agents that don't burn tokens, and test coverage that catches regressions before they ship.
-
-This summer I interned at **Google** as a SWE, building integration-test infrastructure from zero and an LLM agent that triages failing test runs. Now finishing an M.C.S. at Rice (GPA 4.00, graduating Dec. 2026).
+I'm a builder who is happy about my work.
 
 ---
 
@@ -89,5 +86,3 @@ Testing      pytest · JUnit · Vitest
   <img src="./profile/stats.svg" height="150" alt="stats graph" />
   <img src="./profile/top-langs.svg" height="150" alt="languages graph" />
 </div>
-
-<img src="https://raw.githubusercontent.com/yarikama/yarikama/output/snake.svg" alt="Personal GitHub Contribution Graph" />
