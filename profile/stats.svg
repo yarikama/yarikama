@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yarikama&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 43, Total Commits  : 2259, Total PRs: 425, Total Issues: 4, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 43, Total Commits  : 2275, Total PRs: 432, Total Issues: 4, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 81.2417992018571;
+        stroke-dashoffset: 81.12923270422688;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >425</text>
+      >432</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
