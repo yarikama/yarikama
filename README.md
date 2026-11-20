@@ -8,6 +8,7 @@
   <a href="https://www.yarikama.com/"><img src="https://img.shields.io/badge/Portfolio-yarikama.com-1f6feb?style=flat-square" alt="portfolio"/></a>
   <a href="https://www.linkedin.com/in/yarikama/"><img src="https://img.shields.io/badge/LinkedIn-yarikama-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="mailto:hsuhengjui@gmail.com"><img src="https://img.shields.io/badge/Email-hsuhengjui%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=yarikama&label=Profile%20views&color=1f6feb&style=flat-square" alt="profile views"/>
 </p>
 
 ---
